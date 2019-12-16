@@ -52,7 +52,7 @@ Je suis docteur en biologie diplômé de l’Institut de recherche sur les prot�
 * Étude du contrôle post-transcriptionnel de l’expression des gènes chez _Escherichia coli_ médiée par de petits ARN
 
 2011-2017 **Chercheur postdoctoral** – Institut de recherche sur les protéines (Pushchino, région de Moscou, Russie)
-* Étude du rôle des protéines ribosomales dans l'assemblage et le fonctionnement des ribosomes chez _E. coli in vivo_
+* Étude du rôle des protéines ribosomales dans l'assemblage et la fonction des ribosomes chez _E. coli in vivo_
 
 2007-2011 **Assistant de laboratoire/Ingénieur de recherche** – Institut de recherche sur les protéines (Pushchino, région de Moscou, Russie)
 * Étude des principes des interactions ARN-protéines
