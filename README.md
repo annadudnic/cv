@@ -85,7 +85,7 @@ Je suis docteur en biologie diplômé de l’Institut de recherche sur les prot�
 
 * 2008 **5S rRNA-recognition module of CTC family proteins and its evolution**. Biochemistry (Mosc.). Korobeinikova A.V., Gongadze G.M., Korepanov A.P., Eliseev B.D., Bazhenova M.V., Garber M.B. [lien](https://www.ncbi.nlm.nih.gov/pubmed/18298371) 
 
-* 2008 **The crucial role of conserved intermolecular H-bonds inaccessible to the solvent in formation and stabilization of the TL5-5S rRNA complex**. J. Biol. Chem.  Gongadze G.M., Korepanov A.P., Stolboushkina E.A., Zelinskaya N.V., Korobeinikova A.V., Ruzanov M.V., Eliseev B.D., Nikonov O.S., Nikonov S.V., Garber M.B., Lim, V.I. [lien](https://www.ncbi.nlm.nih.gov/pubmed/15718233)
+* 2005 **The crucial role of conserved intermolecular H-bonds inaccessible to the solvent in formation and stabilization of the TL5-5S rRNA complex**. J. Biol. Chem.  Gongadze G.M., Korepanov A.P., Stolboushkina E.A., Zelinskaya N.V., Korobeinikova A.V., Ruzanov M.V., Eliseev B.D., Nikonov O.S., Nikonov S.V., Garber M.B., Lim, V.I. [lien](https://www.ncbi.nlm.nih.gov/pubmed/15718233)
 
 ### Centres d'intérêt
 Lecture, Yoga, Natation, Voyages, Développement personnel, Psychologie, Volontariat
