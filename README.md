@@ -1,5 +1,5 @@
 ## Anna KOROBEINIKOVA
-## Ingénieur de recherche en Biochimie/Biologie moléculaire
+### Ingénieur de recherche en Biochimie/Biologie moléculaire
 Je suis docteur en biologie diplômé de l’Institut de recherche sur les protéines (Pushchino, région de Moscou, Russie) et cumule désormais plus de 10 ans de carrière dans la recherche publique. Spécialisé en biologie moléculaire et en biochimie, je suis toujours à la recherche de nouvelles opportunités professionnelles qui me laisseront l'occasion de pratiquer ce savoir-faire au quotidien, au cœur du laboratoire, où je m'épanouis.
 
 ### Principales compétences
