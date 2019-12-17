@@ -42,8 +42,8 @@ Je suis docteur en biologie diplômé de l’Institut de recherche sur les prot�
 
 **Maîtrise des langues**
 * Anglais : niveau professionnel ;
-* Russe : natif ;
-* Français : intermédiaire (B1, en apprentissage).
+* Français : intermédiaire (B1, en apprentissage) ;
+* Russe : natif.
 
 ### Expérience professionnelle
 
