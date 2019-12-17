@@ -47,24 +47,24 @@ Je suis docteur en biologie diplômé de l’Institut de recherche sur les prot�
 
 ### Expérience professionnelle
 
-2012-2019 **Chercheur postdoctoral** – Unité CNRS UMR8261, Institut de Biologie Physico-Chimique (Paris)
-* Étude de la régulation de la biosynthèse de l’endoribonucléase RNase Y chez _Bacillus subtilis_
-* Étude du contrôle post-transcriptionnel de l’expression des gènes chez _Escherichia coli_ médiée par de petits ARN
+* 2012-2019 **Chercheur postdoctoral** – Unité CNRS UMR8261, Institut de Biologie Physico-Chimique (Paris)
+  * Étude de la régulation de la biosynthèse de l’endoribonucléase RNase Y chez _Bacillus subtilis_
+  * Étude du contrôle post-transcriptionnel de l’expression des gènes chez _Escherichia coli_ médiée par de petits ARN
 
-2011-2017 **Chercheur postdoctoral** – Institut de recherche sur les protéines (Pushchino, région de Moscou, Russie)
-* Étude du rôle des protéines ribosomales dans l'assemblage et la fonction des ribosomes chez _E. coli in vivo_
+* 2011-2017 **Chercheur postdoctoral** – Institut de recherche sur les protéines (Pushchino, région de Moscou, Russie)
+  * Étude du rôle des protéines ribosomales dans l'assemblage et la fonction des ribosomes chez _E. coli in vivo_
 
-2007-2011 **Assistant de laboratoire/Ingénieur de recherche** – Institut de recherche sur les protéines (Pushchino, région de Moscou, Russie)
-* Étude des principes des interactions ARN-protéines
+* 2007-2011 **Assistant de laboratoire/Ingénieur de recherche** – Institut de recherche sur les protéines (Pushchino, région de Moscou, Russie)
+  * Étude des principes des interactions ARN-protéines
 
 
 ### Formation
 
-2011 **Doctorat en Biologie Moléculaire** – Institut de recherche sur les protéines (Pushchino, région de Moscou, Russie)
+* 2011 **Doctorat en Biologie Moléculaire** – Institut de recherche sur les protéines (Pushchino, région de Moscou, Russie)
 
-2007 **Master en Biologie** – Université d'État de Moscou (Russie)
+* 2007 **Master en Biologie** – Université d'État de Moscou (Russie)
 
-2005 **Spécialitet (Bac+5) en Biochimie** – Université d'État d'Oudmourtie (Ijevsk, Russie)
+* 2005 **Spécialitet (Bac+5) en Biochimie** – Université d'État d'Oudmourtie (Ijevsk, Russie)
 
 
 ### Publications
