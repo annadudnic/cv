@@ -15,7 +15,7 @@ Je suis docteur en biologie diplômé de l’Institut de recherche sur les prot�
 * Détection et quantification d'acides nucléiques (Northern blot) et des protéines (Western blot);
 * Purification, analyse d’interaction et cristallisation des protéines, des ARN et leur complexes ;
 * Inactivation de gènes chez bacteria ;
-* Sondage chimique des ARN ;
+* Sondage chimique d'ARN ;
 * Purification et tests fonctionnels des ribosomes (traduction _in vitro_, électrophorèse sur gel 2D, puromycine test, “stopped flow” technique et autres).
 
 **Génie génétique**
@@ -92,6 +92,7 @@ Je suis docteur en biologie diplômé de l’Institut de recherche sur les prot�
 
 ### Bourses personnelles
 FEBS Short-Term Fellowship (2017), Fondation russe pour la recherche fondamentale (2014- 2016), EMBO Short-Term Fellowship (2014), FEBS Youth Travel Fund Grant (2008), FEBS Summer Fellowship (2008)
+
 ### Centres d'intérêt
 Lecture, Yoga, Natation, Voyages, Développement personnel, Psychologie, Volontariat
 
