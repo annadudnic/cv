@@ -14,13 +14,13 @@ Je suis docteur en biologie diplômé de l’Institut de recherche sur les prot�
 * Extraction d'ADN/ARN à partir de microorganismes ;
 * Détection et quantification d'acides nucléiques (Northern blot) et des protéines (Western blot);
 * Purification, analyse d’interaction et cristallisation des protéines, des ARN et leur complexes ;
-* Inactivation de gènes chez bacteria ;
+* Inactivation de gènes chez bactéries ;
 * Sondage chimique d'ARN ;
 * Purification et tests fonctionnels des ribosomes (traduction _in vitro_, électrophorèse sur gel 2D, puromycine test, “stopped flow” technique et autres).
 
 **Génie génétique**
 * Clonage des gènes ;
-* Construction de vecteurs plasmidiques (restriction/ligation, PCR fusion ou Gateway) ;
+* Construction de vecteurs plasmidiques ;
 * Mutagénèse dirigée par PCR.
 
 **Microbiologie**
