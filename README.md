@@ -1,19 +1,22 @@
 ## Anna KOROBEINIKOVA
 ### Ingénieur de recherche en Biochimie/Biologie moléculaire
-Je suis docteur en biologie diplômé de l’Institut de recherche sur les protéines (Pushchino, région de Moscou, Russie) et cumule désormais plus de 10 ans de carrière dans la recherche publique. Spécialisé en biologie moléculaire et en biochimie, je suis toujours à la recherche de nouvelles opportunités professionnelles qui me laisseront l'occasion de pratiquer ce savoir-faire au quotidien, au cœur du laboratoire, où je m'épanouis.
-
+Je suis docteur en biologie diplômé de l’Institut de recherche sur les protéines (Pushchino, région de Moscou, Russie) et cumule désormais plus de 10 ans de carrière dans la recherche publique. Spécialisé en biologie moléculaire et en biochimie, je suis toujours à la recherche de nouvelles opportunités professionnelles qui m'aide à renforcer mes compétences et à acquérir de nouveaux savoir-faire.
 ### Principales compétences
 
-**Biochimie de protéines et d’ARN**
-* Transcription _in vitro_ d’ARN ;
-* Purification, analyse d’interaction et cristallisation des protéines, des ARN et leur complexes ;
-* Western/Northern blots ;
-* Sondage chimique des ARN.
+**Biochimie**
+* Centrifugation, ultracentrifugation et centrifugation en gradients de saccharose ;
+* Dialyse ;
+* Electrophorèse d’acides nucléiques, des protéines et leur complexes ;
+* Chromatographie des protéines et d’ARN ;
+* Spectrophotometrie .
 
 **Biologie moléculaire**
 * Extraction d'ADN/ARN à partir de microorganismes ;
-* Détection et quantification d'acides nucléiques  (Northern) ;
-* Purification et tests fonctionnels des ribosomes (traduction in vitro, centrifugation en gradients de saccharose, électrophorèse sur gel 2D, sondage chimique de l’ARN ribosomales, puromycine test, pulse-labeling of synthesized polypeptides et stopped flow technique).
+* Détection et quantification d'acides nucléiques (Northern blot) et des protéines (Western blot);
+* Purification, analyse d’interaction et cristallisation des protéines, des ARN et leur complexes ;
+* Inactivation de gènes chez bacteria ;
+* Sondage chimique des ARN ;
+* Purification et tests fonctionnels des ribosomes (traduction _in vitro_, électrophorèse sur gel 2D, puromycine test, “stopped flow” technique et autres).
 
 **Génie génétique**
 * Clonage des gènes ;
@@ -22,7 +25,7 @@ Je suis docteur en biologie diplômé de l’Institut de recherche sur les prot�
 
 **Microbiologie**
 * Culture, caractérisation et quantification de bactéries (Gram- ou Gram+) ;
-* Transformation, inactivation de gènes, dosage de beta-galactosidase, expression des gènes
+* Transformation, dosage de beta-galactosidase, expression des gènes .
 
 **Bioinformatique**
 * Recherche, analyse et comparaison de séquences nucléiques ou protéiques ;
@@ -87,5 +90,9 @@ Je suis docteur en biologie diplômé de l’Institut de recherche sur les prot�
 
 * 2005 **The crucial role of conserved intermolecular H-bonds inaccessible to the solvent in formation and stabilization of the TL5-5S rRNA complex**. J. Biol. Chem.  Gongadze G.M., Korepanov A.P., Stolboushkina E.A., Zelinskaya N.V., Korobeinikova A.V., Ruzanov M.V., Eliseev B.D., Nikonov O.S., Nikonov S.V., Garber M.B., Lim, V.I. [lien](https://www.ncbi.nlm.nih.gov/pubmed/15718233)
 
+### Bourses personnelles
+FEBS Short-Term Fellowship (2017), Fondation russe pour la recherche fondamentale (2014- 2016), EMBO Short-Term Fellowship (2014), FEBS Youth Travel Fund Grant (2008), FEBS Summer Fellowship (2008)
 ### Centres d'intérêt
 Lecture, Yoga, Natation, Voyages, Développement personnel, Psychologie, Volontariat
+
+
