@@ -5,48 +5,48 @@ Je suis docteur en biologie diplômé de l’Institut de recherche sur les prot�
 ### Principales compétences
 
 **Biochimie**
-* Centrifugation, ultracentrifugation et centrifugation en gradients de saccharose ;
-* Dialyse ;
-* Electrophorèse d’acides nucléiques, des protéines et leur complexes ;
-* Chromatographie des protéines et de l’ARN ;
-* Spectrophotometrie .
+* Centrifugation, ultracentrifugation et centrifugation en gradients de saccharose;
+* Dialyse;
+* Electrophorèse d’acides nucléiques, des protéines et leur complexes;
+* Chromatographie des protéines et de l’ARN;
+* Spectrophotometrie.
 
 **Biologie moléculaire**
-* Extraction d'ADN/ARN à partir de microorganismes ;
+* Extraction d'ADN/ARN à partir de microorganismes;
 * Détection et quantification d'acides nucléiques (Northern blot) et des protéines (Western blot);
-* Purification, analyse d’interaction et cristallisation des protéines, des ARN et leur complexes ;
-* Inactivation de gènes bactériens ;
-* Sondage chimique de la structure des ARN
+* Purification, analyse d’interaction et cristallisation des protéines, des ARN et leur complexes; 
+* Inactivation de gènes bactériens;
+* Sondage chimique de la structure des ARN;
 * Purification et tests fonctionnels des ribosomes (traduction in vitro, électrophorèse sur gel 2D, * puromycine test, “stopped flow” technique et d'autres).
  
 **Génie génétique**
-* Clonage des gènes ;
-* Construction de vecteurs plasmidiques ;
+* Clonage des gènes;
+* Construction de vecteurs plasmidiques;
 * Mutagénèse dirigée par PCR.
 
 **Microbiologie**
-* Culture, caractérisation et quantification de bactéries (Gram- ou Gram+) ;
+* Culture, caractérisation et quantification de bactéries (Gram- ou Gram+);
 * Transformation, inactivation de gènes, dosage de beta-galactosidase, expression et mutagenèse des gènes 
 
 **Bioinformatique**
-* Recherche, analyse et comparaison de séquences nucléiques ou protéiques ;
+* Recherche, analyse et comparaison de séquences nucléiques ou protéiques;
 * Design d’amorces oligonucléotidiques.
 
 **Management d'équipe et gestion de projet**
-* Encadrement des étudiants/stagiaires ;
-* Organisation du timing et respect des deadlines ;
-* Restitution de résultats (présentations, rapports, articles, posters) ;
+* Encadrement des étudiants/stagiaires;
+* Organisation du timing et respect des deadlines;
+* Restitution de résultats (présentations, rapports, articles, posters);
 * Collaboration intra- et inter-équipes, transfert de compétences.
 
 **Informatique**
-* Bureautique (environnement Windows, pack Office) ; 
-* Retouche/analyse d'images (Photoshop, ImageJ, Corel Draw) ;
+* Bureautique (environnement Windows, pack Office); 
+* Retouche/analyse d'images (Photoshop, ImageJ, Corel Draw);
 * Clone Manager, Prism7, Biaeval;
-* Applications web (NCBI suite, Expasy suite, BLAST, ClustalW, T-Coffee)
+* Applications web (NCBI suite, Expasy suite, BLAST, ClustalW, T-Coffee).
 
 **Maîtrise des langues**
-* Anglais : niveau professionnel ;
-* Russe : natif ;
+* Anglais : niveau professionnel;
+* Russe : natif;
 * Français : pré-intermédiaire (A2-B1).
 
 ### Expérience professionnelle
