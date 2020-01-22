@@ -73,7 +73,7 @@ Je suis docteur en biologie diplômé de l’Institut de recherche sur les prot�
 
 * 2016 **Unexpected properties of sRNA promoters allow feedback control via regulation of a two-component system**. Nucleic Acids Res., Brosse A., _Korobeinikova А._, Gottesman S., Guillier M. [lien](https://www.ncbi.nlm.nih.gov/pubmed/27439713)
 
-* 2016 **Role of protein L25 and its contact with protein L16 in maintaining the active state of Escherichia coli ribosomes in vivo. Biochemistry (Mosc.). Anikaev A.Y., Isaev A.B., _Korobeinikova A.V._, Garber M.B., Gongadze G.M.[lien](https://www.ncbi.nlm.nih.gov/pubmed/26885579)
+* 2016 **Role of protein L25 and its contact with protein L16 in maintaining the active state of Escherichia coli ribosomes in vivo. Biochemistry (Mosc.). Anikaev A.Y., Isaev A.B., _Korobeinikova A.V._, Garber M.B., Gongadze G.M. [lien](https://www.ncbi.nlm.nih.gov/pubmed/26885579)
 
 * 2014 **Mutant forms of Escherichia coli protein L25 unable to bind to 5S rRNA are incorporated efficiently into the ribosome in vivo. Biochemistry (Mosc.). Anikaev A.Y., Korepanov A.P., _Korobeinikova A.V._, Kljashtorny V.G., Piendl W., Nikonov S.V., Garber M.B., Gongadze G.M. [lien](https://www.ncbi.nlm.nih.gov/pubmed/25365493)
 
