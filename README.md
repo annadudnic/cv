@@ -4,19 +4,19 @@ Je suis docteur en biologie diplômé de l’Institut de recherche sur les prot�
 
 ### Principales compétences
 
-**Biocmimie**
+**Biochimie**
 * Centrifugation, ultracentrifugation et centrifugation en gradients de saccharose ;
 * Dialyse ;
 * Electrophorèse d’acides nucléiques, des protéines et leur complexes ;
-* Chromatographie des protéines et d’ARN ;
+* Chromatographie des protéines et de l’ARN ;
 * Spectrophotometrie .
 
 **Biologie moléculaire**
 * Extraction d'ADN/ARN à partir de microorganismes ;
 * Détection et quantification d'acides nucléiques (Northern blot) et des protéines (Western blot);
 * Purification, analyse d’interaction et cristallisation des protéines, des ARN et leur complexes ;
-* Inactivation de gènes chez bactéries ;
-* Sondage chimique d'ARN ;
+* Inactivation de gènes bactériens ;
+* Sondage chimique de la structure des ARN
 * Purification et tests fonctionnels des ribosomes (traduction in vitro, électrophorèse sur gel 2D, * puromycine test, “stopped flow” technique et d'autres).
  
 **Génie génétique**
