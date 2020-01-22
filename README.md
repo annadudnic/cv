@@ -71,7 +71,7 @@ Je suis docteur en biologie diplômé de l’Institut de recherche sur les prot�
 
 ### Publications
 
-* 2016 **Unexpected properties of sRNA promoters allow feedback control via regulation of a two-component system**. Nucleic Acids Res., Brosse A., _Korobeinikova А._, Gottesman S., Guillier M. [lien](https://www.ncbi.nlm.nih.gov/pubmed/27439713)
+* 2016 **Unexpected properties of sRNA promoters allow feedback control via regulation of a two-component system. Nucleic Acids Res., Brosse A., _Korobeinikova А._, Gottesman S., Guillier M. [lien](https://www.ncbi.nlm.nih.gov/pubmed/27439713)
 
 * 2016 **Role of protein L25 and its contact with protein L16 in maintaining the active state of Escherichia coli ribosomes in vivo. Biochemistry (Mosc.). Anikaev A.Y., Isaev A.B., _Korobeinikova A.V._, Garber M.B., Gongadze G.M. [lien](https://www.ncbi.nlm.nih.gov/pubmed/26885579)
 
