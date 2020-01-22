@@ -17,7 +17,7 @@ Je suis docteur en biologie diplômé de l’Institut de recherche sur les prot�
 * Purification, analyse d’interaction et cristallisation des protéines, des ARN et leur complexes; 
 * Inactivation de gènes bactériens;
 * Sondage chimique de la structure des ARN;
-* Purification et tests fonctionnels des ribosomes (traduction in vitro, électrophorèse sur gel 2D, * puromycine test, “stopped flow” technique et d'autres).
+* Purification et tests fonctionnels des ribosomes (traduction in vitro, électrophorèse sur gel 2D, puromycine test, “stopped flow” technique et d'autres).
  
 **Génie génétique**
 * Clonage des gènes;
