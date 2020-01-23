@@ -1,4 +1,6 @@
 ## Anna KOROBEINIKOVA
+anny.dudnic@gmail.com
+
 ### Docteur en biologie moléculaire et biochimie, 10 ans dans la recherche publique
 
 ### Principales compétences
