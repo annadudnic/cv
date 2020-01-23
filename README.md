@@ -1,4 +1,7 @@
 ## Anna KOROBEINIKOVA
+6 avenue du President Wilson
+94230 Cachan
+Portable: 0767005329
 anny.dudnic@gmail.com
 
 ### Docteur en biologie moléculaire et biochimie, 10 ans dans la recherche publique
