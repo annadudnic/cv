@@ -1,6 +1,6 @@
 ## Anna KOROBEINIKOVA
 
-### Docteur en biologie moléculaire et biochimie, 10 ans dans la recherche publique
+### Docteur en biologie moléculaire et biochimie, 12 ans dans la recherche fondamentale
 
 ### Principales compétences
 
