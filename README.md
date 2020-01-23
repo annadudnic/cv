@@ -1,6 +1,5 @@
 ## Anna KOROBEINIKOVA
-### Ingénieur de recherche en Biochimie / Biologie moléculaire
-Docteur en biologie moléculaire et biochimie, 10 ans dans la recherche publique
+### Docteur en biologie moléculaire et biochimie, 10 ans dans la recherche publique
 
 ### Principales compétences
 
