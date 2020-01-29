@@ -5,9 +5,8 @@
 ### Principales compétences
 **Biochimie**
 * Centrifugation, ultracentrifugation et centrifugation en gradients de saccharose;
-* Dialyse;
 * Electrophorèse d’acides nucléiques, des protéines et leur complexes;
-* Chromatographie des protéines et de l’ARN;
+* Chromatographie des protéines et de l’ARN, dialyse;
 * Spectrophotometrie.
 
 **Biologie moléculaire**
@@ -19,8 +18,7 @@
 * Purification et tests fonctionnels des ribosomes (traduction in vitro, électrophorèse sur gel 2D, puromycine test, “stopped flow” technique et d'autres).
  
 **Génie génétique**
-* Clonage des gènes;
-* Construction de vecteurs plasmidiques;
+* Clonage des gènes, construction de vecteurs plasmidiques;
 * Mutagénèse dirigée par PCR.
 
 **Microbiologie**
@@ -44,9 +42,7 @@
 * Applications web (NCBI suite, Expasy suite, BLAST, ClustalW, T-Coffee).
 
 **Maîtrise des langues**
-* Anglais : niveau professionnel;
-* Russe : natif;
-* Français : pré-intermédiaire (A2-B1).
+* Anglais : niveau professionnel; Russe : natif; Français : pré-intermédiaire (A2-B1).
 
 ### Expérience professionnelle
 2012-2019 **Chercheur postdoctoral** – Unité CNRS UMR8261, Institut de Biologie Physico-Chimique (Paris)
