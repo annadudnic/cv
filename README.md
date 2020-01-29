@@ -6,7 +6,7 @@
 **Biochimie**
 * Centrifugation, ultracentrifugation et centrifugation en gradients de saccharose;
 * Electrophorèse d’acides nucléiques, des protéines et leur complexes;
-* Chromatographie des protéines et de l’ARN, spectrophotometrie.
+* Chromatographie des protéines et de l’ARN, spectrophotométrie.
 
 **Biologie moléculaire**
 * Extraction d'ADN/ARN à partir de microorganismes;
