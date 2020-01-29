@@ -3,7 +3,6 @@
 ### Docteur en biologie moléculaire et biochimie, 12 ans dans la recherche fondamentale
 
 ### Principales compétences
-
 **Biochimie**
 * Centrifugation, ultracentrifugation et centrifugation en gradients de saccharose;
 * Dialyse;
@@ -50,7 +49,6 @@
 * Français : pré-intermédiaire (A2-B1).
 
 ### Expérience professionnelle
-
 2012-2019 **Chercheur postdoctoral** – Unité CNRS UMR8261, Institut de Biologie Physico-Chimique (Paris)
 * Étude de la régulation de la biosynthèse de l’endoribonucléase RNase Y chez B. subtilis
 * Étude du contrôle post-transcriptionnel de l’expression des gènes chez E. coli médiée par de petits ARN
@@ -62,7 +60,6 @@
 * Étude des principes des interactions ARN-protéines
 
 ### Formation
-
 2011 **Doctorat en Biologie Moléculaire** – Institut de recherche sur les protéines (Pushchino, région de Moscou, Russie)
 
 2007 **Master en Biologie** – Université d'État de Moscou (Russie)
@@ -70,14 +67,12 @@
 2005 **Bac+5 en Biochimie** – Université d'État d'Oudmourtie (Ijevsk, Russie)
 
 ### Bourses personnelles
-
 FEBS Short-Term Fellowship (2017), Fondation russe pour la recherche fondamentale (2014- 2016), EMBO Short-Term Fellowship (2014), FEBS Youth Travel Fund Grant (2008), FEBS Summer Fellowship (2008)
 
 ### Centres d'intérêt
 Lecture, Yoga, Natation, Voyages, Développement personnel, Psychologie, Volontariat
 
 ### Publications
-
 * 2016 **Unexpected properties of sRNA promoters allow feedback control via regulation of a two-component system. Nucleic Acids Res., Brosse A., _Korobeinikova А._, Gottesman S., Guillier M. [lien](https://www.ncbi.nlm.nih.gov/pubmed/27439713)
 
 * 2016 **Role of protein L25 and its contact with protein L16 in maintaining the active state of Escherichia coli ribosomes in vivo. Biochemistry (Mosc.). Anikaev A.Y., Isaev A.B., _Korobeinikova A.V._, Garber M.B., Gongadze G.M. [lien](https://www.ncbi.nlm.nih.gov/pubmed/26885579)
