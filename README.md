@@ -17,8 +17,7 @@
 * Purification et tests fonctionnels des ribosomes (traduction in vitro, électrophorèse sur gel 2D, puromycine test, “stopped flow” technique et d'autres).
  
 **Génie génétique**
-* Clonage des gènes, construction de vecteurs plasmidiques;
-* Mutagénèse dirigée par PCR.
+* Clonage des gènes, construction de vecteurs plasmidiques, mutagénèse dirigée par PCR.
 
 **Microbiologie**
 * Culture, caractérisation et quantification de bactéries (Gram- ou Gram+);
