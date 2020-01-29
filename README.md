@@ -42,7 +42,7 @@
 * Applications web (NCBI suite, Expasy suite, BLAST, ClustalW, T-Coffee).
 
 **Maîtrise des langues**
-* Anglais : niveau professionnel; Russe : natif; Français : pré-intermédiaire (A2-B1).
+* **Anglais** : niveau professionnel; **Russe** : natif; **Français** : pré-intermédiaire (A2-B1).
 
 ### Expérience professionnelle
 2012-2019 **Chercheur postdoctoral** – Unité CNRS UMR8261, Institut de Biologie Physico-Chimique (Paris)
