@@ -28,8 +28,7 @@
 * Design d’amorces oligonucléotidiques.
 
 **Management d'équipe et gestion de projet**
-* Encadrement des étudiants/stagiaires;
-* Organisation du timing et respect des deadlines;
+* Encadrement des étudiants/stagiaires, organisation du timing et respect des deadlines;
 * Restitution de résultats (présentations, rapports, articles, posters);
 * Collaboration intra- et inter-équipes, transfert de compétences.
 
