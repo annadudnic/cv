@@ -21,7 +21,7 @@
 
 **Microbiologie**
 * Culture, caractérisation et quantification de bactéries (Gram- ou Gram+);
-* Transformation, inactivation de gènes, dosage de beta-galactosidase, expression et mutagenèse des gènes 
+* Transformation, inactivation de gènes, dosage de beta-galactosidase, expression et mutagenèse des gènes. 
 
 **Bioinformatique**
 * Recherche, analyse et comparaison de séquences nucléiques ou protéiques;
