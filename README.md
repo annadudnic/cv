@@ -63,7 +63,7 @@
 2005 **Bac+5 en Biochimie** – Université d'État d'Oudmourtie (Ijevsk, Russie)
 
 ### Bourses personnelles
-FEBS Short-Term Fellowship (2017), Fondation russe pour la recherche fondamentale (2014- 2016), EMBO Short-Term Fellowship (2014), FEBS Youth Travel Fund Grant (2008), FEBS Summer Fellowship (2008)
+FEBS Short-Term Fellowship (2017), Fondation russe pour la recherche fondamentale (2014- 2016), EMBO Short-Term Fellowship (2014), FEBS YTF Grant (2008), FEBS Summer Fellowship (2008)
 
 ### Centres d'intérêt
 Lecture, Yoga, Natation, Voyages, Développement personnel, Psychologie, Volontariat
