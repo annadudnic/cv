@@ -1,5 +1,5 @@
 ## Anna KOROBEINIKOVA
-### PhD in Molecular Biology with 12 years of experience in fundamental research
+### PhD in molecular biology with 12 years of experience in fundamental research
 
 ### Key research skills
 
