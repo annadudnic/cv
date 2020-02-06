@@ -1,71 +1,83 @@
 ## Anna KOROBEINIKOVA
+### PhD in Molecular Biology with 12 years of experience in fundamental research
 
-### Docteur en biologie moléculaire et biochimie, 12 ans dans la recherche fondamentale
+### Key research skills
 
-### Principales compétences
-**Biochimie**
-* Centrifugation, ultracentrifugation et centrifugation en gradients de saccharose;
-* Electrophorèse d’acides nucléiques, des protéines et leur complexes;
-* Chromatographie des protéines et de l’ARN, spectrophotométrie.
+**Biochemistry**
+* Centrifugation, ultracentrifugation and centrifugation in sucrose gradients;
+* Dialysis;
+* Electrophoresis of proteins, nucleic acids and their complexes;
+* Chromatography of proteins and RNA;
+* Spectrophotometry.
 
-**Biologie moléculaire**
-* Extraction d'ADN/ARN à partir de microorganismes;
-* Détection et quantification d'acides nucléiques (Northern blot) et des protéines (Western blot);
-* Purification, analyse d’interaction et cristallisation des protéines, des ARN et leur complexes; 
-* Inactivation de gènes bactériens;
-* Sondage chimique de la structure des ARN;
-* Purification et tests fonctionnels des ribosomes (traduction in vitro, électrophorèse sur gel 2D, puromycine test, “stopped flow” technique et d'autres).
+**Molecular biology**
+* Extraction of DNA and RNA;
+* Detection and quantification of nucleic acids (Northern blot) and proteins (Western blot);
+* Purification, analysis of interaction and crystallization of proteins, RNA and their complexes; 
+* Inactivation of bacterial genes;
+* Chemical probing of RNA structure;
+* Purification and functional analysis of ribosomes (translation in vitro, 2D electrophoresis, puromycin test, “stopped flow” technique and others).
  
-**Génie génétique**
-* Clonage des gènes, construction de vecteurs plasmidiques, mutagénèse dirigée par PCR.
+**Genetic engineering**
+* Gene cloning;
+* Construction of plasmid vectors;
+* Site-directed mutagenesis.
 
-**Microbiologie**
-* Culture, caractérisation et quantification de bactéries (Gram- ou Gram+);
-* Transformation, inactivation de gènes, dosage de beta-galactosidase, expression et mutagenèse des gènes. 
+**Microbiology**
+* Cultivation, characterization and quantification of bacteria (Gram- or Gram+);
+* Transformation, gene expression, inactivation and mutagenesis, beta-galactosidase test.
 
-**Bioinformatique**
-* Recherche, analyse et comparaison de séquences nucléiques ou protéiques;
-* Design d’amorces oligonucléotidiques.
+**Bioinformatics**
+* Analysis and comparison of the protein and nucleic acids sequences;
+* Design of oligonucleotides.
 
-**Management d'équipe et gestion de projet**
-* Encadrement des étudiants/stagiaires, organisation du timing et respect des deadlines;
-* Restitution de résultats (présentations, rapports, articles, posters);
-* Collaboration intra- et inter-équipes, transfert de compétences.
+**Team and project management**
+* Supervision of students;
+* Time planning and respect for deadlines;
+* Results presentation (oral and poster presentations, writing of the reports and articles);
+* Internal and external collaboration, skill transfer.
 
-**Informatique**
-* Bureautique (environnement Windows, pack Office); 
-* Retouche/analyse d'images (Photoshop, ImageJ, Corel Draw);
+**Informatics**
+* Documentation management (MS Office tools); 
+* Image editing and analysis (Photoshop, ImageJ, Corel Draw);
 * Clone Manager, Prism7, Biaeval;
-* Applications web (NCBI suite, Expasy suite, BLAST, ClustalW, T-Coffee).
+* Web applications (NCBI suite, Expasy suite, BLAST, ClustalW, T-Coffee).
 
-**Maîtrise des langues**
-* **Anglais** : niveau professionnel; **Russe** : natif; **Français** : pré-intermédiaire (A2-B1).
+**Languages**
+* English: professionnel;
+* Russian: natif;
+* French: pre-intermédiate (A2-B1).
 
-### Expérience professionnelle
-2012-2019 **Chercheur postdoctoral** – Unité CNRS UMR8261, Institut de Biologie Physico-Chimique (Paris)
-* Étude de la régulation de la biosynthèse de l’endoribonucléase RNase Y chez B. subtilis
-* Étude du contrôle post-transcriptionnel de l’expression des gènes chez E. coli médiée par de petits ARN
+### Professional experience 
 
-2011-2017 **Chercheur postdoctoral** – Institut de recherche sur les protéines (Pushchino, région de Moscou, Russie)
-* Étude du rôle des protéines ribosomales dans l'assemblage et le fonctionnement des ribosomes chez _E. coli in vivo_
+2012-2019 **Postdoctoral Researcher** – CNRS Unit UMR8261, Institute of Physico-Chemical Biology (Paris)
+* Studying the regulation of endoribonuclease RNase Y biosynthesis in _B. subtilis_ cells
+* Studying post- transcriptional control of gene expression in _E. coli_ mediated by small RNAs
 
-2007-2011 **Assistant de laboratoire/Ingénieur de recherche** – l'Institut de recherche sur les protéines (Pushchino, région de Moscou, Russie)
-* Étude des principes des interactions ARN-protéines
+2011-2017 **Postdoctoral Researcher** – Institute of Protein Research (Pushchino, Moscow region, Russia)
+* Studying the role of ribosomal proteins in the formation and function of bacterial ribosome _in vivo_
 
-### Formation
-2011 **Doctorat en Biologie Moléculaire** – Institut de recherche sur les protéines (Pushchino, région de Moscou, Russie)
+2007-2011 **Engineer/Laboratory assistant** – Institute of Protein Research (Pushchino, Moscow region, Russia)
+* Studying the principles of RNA-protein interactions
 
-2007 **Master en Biologie** – Université d'État de Moscou (Russie)
+### Education
 
-2005 **Bac+5 en Biochimie** – Université d'État d'Oudmourtie (Ijevsk, Russie)
+2011 **PhD in Molecular biology** – Institute of Protein Research (Pushchino, Moscow region, Russia)
+
+2007 **MS in Biology** – Lomonosov Moscow State University (Russia)
+
+2005 **B.S. in Biochemistry** – Udmurt State University (Izhevsk, Russia)
 
 ### Bourses personnelles
-FEBS Short-Term Fellowship (2017), Fondation russe pour la recherche fondamentale (2014- 2016), EMBO Short-Term Fellowship (2014), FEBS YTF Grant (2008), FEBS Summer Fellowship (2008)
 
-### Centres d'intérêt
-Lecture, Yoga, Natation, Voyages, Développement personnel, Psychologie, Volontariat
+FEBS Short-Term Fellowship (2017), Russian Foundation for Basic Research
+ (2014- 2016), EMBO Short-Term Fellowship (2014), FEBS Youth Travel Fund Grant (2008), FEBS Summer Fellowship (2008)
+
+### Interests
+Reading, Yoga, Swimming, Travel, Personal development, Psychology, Volunteering
 
 ### Publications
+
 * 2016 **Unexpected properties of sRNA promoters allow feedback control via regulation of a two-component system. Nucleic Acids Res., Brosse A., _Korobeinikova А._, Gottesman S., Guillier M. [lien](https://www.ncbi.nlm.nih.gov/pubmed/27439713)
 
 * 2016 **Role of protein L25 and its contact with protein L16 in maintaining the active state of Escherichia coli ribosomes in vivo. Biochemistry (Mosc.). Anikaev A.Y., Isaev A.B., _Korobeinikova A.V._, Garber M.B., Gongadze G.M. [lien](https://www.ncbi.nlm.nih.gov/pubmed/26885579)
@@ -83,6 +95,7 @@ Lecture, Yoga, Natation, Voyages, Développement personnel, Psychologie, Volonta
 * 2008 **5S rRNA-recognition module of CTC family proteins and its evolution. Biochemistry (Mosc.). _Korobeinikova A.V._, Gongadze G.M., Korepanov A.P., Eliseev B.D., Bazhenova M.V., Garber M.B. [lien](https://www.ncbi.nlm.nih.gov/pubmed/18298371)
 
 * 2005 **The crucial role of conserved intermolecular H-bonds inaccessible to the solvent in formation and stabilization of the TL5-5S rRNA complex. J. Biol. Chem. Gongadze G.M., Korepanov A.P., Stolboushkina E.A., Zelinskaya N.V., _Korobeinikova A.V._, Ruzanov M.V., Eliseev B.D., Nikonov O.S., Nikonov S.V., Garber M.B., Lim, V.I. [lien](https://www.ncbi.nlm.nih.gov/pubmed/15718233)
+
 
 
 
