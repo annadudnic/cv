@@ -1,4 +1,6 @@
 ## Anna DUDNIC (née KOROBEINIKOVA)
+CV [in English - EN](en.md), [по русски - RU](ru.md)
+
 ### Doctorat en biologie moléculaire avec 12 ans d'expérience en recherche fondamentale
 
 ### Compétences clés en recherche
