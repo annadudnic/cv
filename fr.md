@@ -78,7 +78,20 @@ Bourse à court terme de la FEBS (2017), Fondation russe pour la recherche fonda
 Lecture, Yoga, Natation, Voyage, Développement personnel, Psychologie, Bénévolat
 
 ### Publications
-
-[Liste des publications avec liens]
-
-(Note : Les liens vers les publications ont été conservés tels quels, car ils conduisent à des ressources externes en anglais.)
+- **2016** - "Unexpected properties of sRNA promoters allow feedback control via regulation of a two-component system." Nucleic Acids Res., Brosse A., _Korobeinikova А._, Gottesman S., Guillier M. [\[lien\]](https://www.ncbi.nlm.nih.gov/pubmed/27439713)
+  
+- **2016** - "Role of protein L25 and its contact with protein L16 in maintaining the active state of Escherichia coli ribosomes in vivo." Biochemistry (Mosc.), Anikaev A.Y., Isaev A.B., _Korobeinikova A.V._, Garber M.B., Gongadze G.M. [\[lien\]](https://www.ncbi.nlm.nih.gov/pubmed/26885579)
+  
+- **2014** - "Mutant forms of Escherichia coli protein L25 unable to bind to 5S rRNA are incorporated efficiently into the ribosome in vivo." Biochemistry (Mosc.), Anikaev A.Y., Korepanov A.P., _Korobeinikova A.V._, Kljashtorny V.G., Piendl W., Nikonov S.V., Garber M.B., Gongadze G.M. [\[lien\]](https://www.ncbi.nlm.nih.gov/pubmed/25365493)
+  
+- **2012** - "Protein L5 is crucial for in vivo assembly of the bacterial 50S ribosomal subunit central protuberance." Nucleic Acids Res., Korepanov A.P., _Korobeinikova A.V._, Shestakov S.A., Garber M.B., Gongadze, G.M. [\[lien\]](https://www.ncbi.nlm.nih.gov/pubmed/22821559)
+  
+- **2012** - "Ribosomal proteins: structure, function, and evolution." Biochemistry (Mosc.), _Korobeinikova A.V._, Garber M.B., Gongadze G.M. [\[lien\]](https://www.ncbi.nlm.nih.gov/pubmed/22817455)
+  
+- **2009** - "Protein CTC from Aquifex aeolicus possesses a full-sized 5S rRNA-binding domain." Biochimie, _Korobeinikova A.V._, Shestakov S.A., Korepanov A.P., Garber M.B., Gongadze G.M. [\[lien\]](https://www.ncbi.nlm.nih.gov/pubmed/19041925)
+  
+- **2008** - "Bacterial 5S rRNA-binding proteins of the CTC family." Biochemistry (Mosc.), Gongadze G.M., Korepanov A.P., _Korobeinikova A.V._, Garber M.B. [\[lien\]](https://www.ncbi.nlm.nih.gov/pubmed/19216708)
+  
+- **2008** - "5S rRNA-recognition module of CTC family proteins and its evolution." Biochemistry (Mosc.), _Korobeinikova A.V._, Gongadze G.M., Korepanov A.P., Eliseev B.D., Bazhenova M.V., Garber M.B. [\[lien\]](https://www.ncbi.nlm.nih.gov/pubmed/18298371)
+  
+- **2005** - "The crucial role of conserved intermolecular H-bonds inaccessible to the solvent in formation and stabilization of the TL5-5S rRNA complex." J. Biol. Chem., Gongadze G.M., Korepanov A.P., Stolboushkina E.A., Zelinskaya N.V., _Korobeinikova A.V._, Ruzanov M.V., Eliseev B.D., Nikonov O.S., Nikonov S.V., Garber M.B., Lim, V.I. [\[lien\]](https://www.ncbi.nlm.nih.gov/pubmed/15718233)
