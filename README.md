@@ -1,4 +1,4 @@
-## Anna KOROBEINIKOVA
+## Anna DUDNIC (KOROBEINIKOVA)
 ### PhD in molecular biology with 12 years of experience in fundamental research
 
 ### Key research skills
