@@ -1,4 +1,6 @@
 ## Anna DUDNIC (KOROBEINIKOVA)
+CV [en Français - FR](fr.md), [по русски - RU](ru.md)
+
 ### PhD in molecular biology with 12 years of experience in fundamental research
 
 ### Key research skills
